@@ -1,16 +1,27 @@
-### Hi there 👋
+# Omer Boucris
 
-<!--
-**Omer-Bu/Omer-Bu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👨‍💻 B.Sc in Computer Science  
+💼 Software Engineer at Gampa Company
 
-Here are some ideas to get you started:
+Welcome to my GitHub! I'm Omer, a passionate software engineer with expertise in Python, C++, and Bash scripting. I specialize in test automation, ensuring the reliability and efficiency of software projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me
+
+- 🌐 Exploring the vast world of software development.
+- 🚀 Constantly learning and adapting to new technologies.
+- 💡 Enthusiastic about creating efficient and scalable solutions.
+
+## Expertise
+
+- 🐍 Python Developer
+- 🖥️ C++ Developer
+- 🌐 Bash Scripting
+- 🤖 Test Automation Developer
+
+## Projects
+
+Feel free to explore some of my projects here. Your feedback and collaboration are always welcome!
+Let's connect and build amazing things together! 🚀
+
+- 📫 How to reach me: buckomer@gmail.com
+- ⚡ Fun fact: I type 140 words per minute, try me !
