@@ -1,7 +1,7 @@
 # Omer Boucris
 
 👨‍💻 B.Sc in Computer Science  
-💼 Software Engineer at Gampa Company
+💼 Works as a Software Engineer 
 
 Welcome to my GitHub! I'm Omer, a passionate software engineer with expertise in Python, C++, and Bash scripting. I specialize in test automation, ensuring the reliability and efficiency of software projects.
 
